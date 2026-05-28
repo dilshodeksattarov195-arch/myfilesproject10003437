@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuonnect",
+        "uuid": 19288444,
+        "checksum": "f5i8w"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
